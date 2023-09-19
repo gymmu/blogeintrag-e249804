@@ -6,6 +6,17 @@
 
 body {
   margin: 0;
-  background-color: lightgray;
+  background-color: lightcyan;
   font-family: sans-serif;
+}
+
+h1 { 
+  color: cornflowerblue;
+ 
+  text-align: center;
+}
+
+h2 {
+  color: cornflowerblue;
+text-align: left;
 }
