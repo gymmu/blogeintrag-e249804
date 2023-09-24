@@ -11,12 +11,13 @@ body {
 }
 
 h1 { 
-  color: cornflowerblue;
+  color: aliceblue;
  
   text-align: center;
+  background-color: rgb(248, 200, 224);
 }
 
 h2 {
-  color: cornflowerblue;
+  color: rgb(254, 188, 221);
 text-align: left;
 }
