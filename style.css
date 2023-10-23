@@ -4,8 +4,14 @@
   box-sizing: content-box;
 }
 
+h1 {
+  color: aliceblue;
+ background-color: rgb(126, 223, 255);
+  text-align: center;
+}
+
 body {
   margin: 0;
-  background-color: lightgray;
+  background-color: lightcyan;
   font-family: sans-serif;
 }
